@@ -12,6 +12,7 @@
 - 💬 Ask me about **react, gsap, Webtech, node, redux, axios, firebase, tailwind toolkit**
 
 - 📫 How to reach me **tejchavan1997@gmail.com**
+- <a href="https://tejaschavangit.github.io/portfolio/">Check website</a>
 
 - ⚡ Fun fact **You find it 😉**
 <h3 align="left">Connect with me:</h3>
